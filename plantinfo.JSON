@@ -25,7 +25,7 @@
         "TooHigh": 8.0,
         "DeathHigh": 9.0
     },
-    "Organic content": {    
+    "OrganicContent": {    
         "DeathLow": 0.0, 
         "TooLow": 3.0,
         "Ideal": 10.0,
@@ -94,7 +94,7 @@
         "TooHigh": 8.0, 
         "DeathHigh": 9.0 
     },
-    "Organic content": { 
+    "OrganicContent": { 
         "DeathLow": 0.0, 
         "TooLow": 3.0, 
         "Ideal": 10.0, 
@@ -163,7 +163,7 @@
         "TooHigh": 8.0, 
         "DeathHigh": 9.0 
     },
-    "Organic content": { 
+    "OrganicContent": { 
         "DeathLow": 0.0, 
         "TooLow": 3.0, 
         "Ideal": 10.0, 
@@ -555,7 +555,7 @@
 "ElephantJade": {
     "CommonName": "Elephant Jade",
     "ScientificName": "Portulacaria afra",
-    "SoilDescription": "Loose, well-draining soil with some organic content",
+    "SoilDescription": "Loose, well-draining soil with some OrganicContent",
     "pH": {
         "DeathLow": 4.5,
         "TooLow": 5.0,
@@ -831,7 +831,7 @@
 "HaworthiopsisKalameet": {
     "CommonName": "Haworthiopsis Succulent 'Kalameet'",
     "ScientificName": "Haworthiopsis spp.",
-    "SoilDescription": "Well-draining, sandy mix with moderate organic content; Ensure soil stays dry between waterings",
+    "SoilDescription": "Well-draining, sandy mix with moderate OrganicContent; Ensure soil stays dry between waterings",
     "pH": {
         "DeathLow": 4.5,
         "TooLow": 5.0,
