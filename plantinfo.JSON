@@ -1,0 +1,1108 @@
+
+{
+"AeoniumZwartkop": {
+    "CommonName":"Aeonium Zwartkop",
+    "ScientificName": "Aeonium arboreum",
+    "SoilDescription": "Sandy, well-draining succulent mix; Keep cool and mildly wet to prevent dormancy",
+    "pH": {    
+        "DeathLow": 4.5, 
+        "TooLow": 5.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.5
+    },
+    "Retention": {    
+        "DeathLow": 2.0, 
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {    
+        "DeathLow": 2.0, 
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    },
+    "Organic content": {    
+        "DeathLow": 0.0, 
+        "TooLow": 3.0,
+        "Ideal": 10.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {    
+        "DeathLow": 2.0, 
+        "TooLow": 4.0,
+        "Ideal": 7.75,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {    
+        "DeathLow": 0.0,  
+        "TooLow": 4.0,  
+        "Ideal": 14.0,  
+        "TooHigh": 18.0,  
+        "DeathHigh": 24.0  
+    },
+    "Temperature": {    
+        "DeathLow": 28, 
+        "TooLow": 60,
+        "Ideal": 75,
+        "TooHigh": 80,
+        "DeathHigh": 110
+    },
+    "CareDescription": "Water when top half of soil is dry; low humidity; Occasional light feeding during growing season (~1/4 strength monthly)",
+    "RelativeHumidity": {    
+        "DeathLow": 10, 
+        "TooLow": 25,
+        "Ideal": 50,
+        "TooHigh": 75,
+        "DeathHigh": 90
+    },
+    "Fertilizer": {    
+        "DeathLow": 10, 
+        "TooLow": 1.5,
+        "Ideal": 3.5,
+        "TooHigh": 6,
+        "DeathHigh": 8
+    }
+},
+"AloeBlackGem": {
+    "CommonName": "Aloe 'Black Gem'",
+    "ScientificName": "Aloe X Haworthia",
+    "SoilDescription": "Gritty, well-draining succulent mix",
+    "pH": { 
+        "DeathLow": 4.5, 
+        "TooLow": 5.0, 
+        "Ideal": 6.0, 
+        "TooHigh": 7.5, 
+        "DeathHigh": 8.5 
+    },
+    "Retention": { 
+        "DeathLow": 2.0, 
+        "TooLow": 3.0, 
+        "Ideal": 5.0, 
+        "TooHigh": 8.0, 
+        "DeathHigh": 10.0 
+    },
+    "Aeration": { 
+        "DeathLow": 2.0, 
+        "TooLow": 3.0, 
+        "Ideal": 6.0, 
+        "TooHigh": 8.0, 
+        "DeathHigh": 9.0 
+    },
+    "Organic content": { 
+        "DeathLow": 0.0, 
+        "TooLow": 3.0, 
+        "Ideal": 10.0, 
+        "TooHigh": 20.0, 
+        "DeathHigh": 25.0 
+    },
+    "LightStrength": { 
+        "DeathLow": 2.0, 
+        "TooLow": 4.0, 
+        "Ideal": 7.75, 
+        "TooHigh": 9.0, 
+        "DeathHigh": 10.0 
+    },
+    "Photoperiod": { 
+        "DeathLow": 0.0, 
+        "TooLow": 4.0, 
+        "Ideal": 14.0, 
+        "TooHigh": 18.0, 
+        "DeathHigh": 24.0 
+    },
+    "Temperature": { 
+        "DeathLow": 28, 
+        "TooLow": 60, 
+        "Ideal": 75, 
+        "TooHigh": 80, 
+        "DeathHigh": 110 
+    },
+    "CareDescription": "Water when dry; low humidity; cactus fertilizer occasionally",
+    "RelativeHumidity": { 
+        "DeathLow": 10, 
+        "TooLow": 25, 
+        "Ideal": 50, 
+        "TooHigh": 75, 
+        "DeathHigh": 90 
+    },
+    "Fertilizer": { 
+        "DeathLow": 10, 
+        "TooLow": 1.5, 
+        "Ideal": 3.5, 
+        "TooHigh": 6, 
+        "DeathHigh": 8 
+    }
+},
+"ZebraSucculent": {
+    "CommonName": "Zebra Succulent",
+    "ScientificName": "Haworthiopsis attenuata",
+    "SoilDescription": "Well-draining, sandy soil; Keep cool and mildly wet to prevent dormancy",
+    "pH": { 
+        "DeathLow": 4.5, 
+        "TooLow": 5.0, 
+        "Ideal": 6.0, 
+        "TooHigh": 7.5, 
+        "DeathHigh": 8.5 
+    },
+    "Retention": { 
+        "DeathLow": 2.0, 
+        "TooLow": 3.0, 
+        "Ideal": 5.0, 
+        "TooHigh": 8.0, 
+        "DeathHigh": 10.0 
+    },
+    "Aeration": { 
+        "DeathLow": 2.0, 
+        "TooLow": 3.0, 
+        "Ideal": 6.0, 
+        "TooHigh": 8.0, 
+        "DeathHigh": 9.0 
+    },
+    "Organic content": { 
+        "DeathLow": 0.0, 
+        "TooLow": 3.0, 
+        "Ideal": 10.0, 
+        "TooHigh": 20.0, 
+        "DeathHigh": 25.0 
+    },
+    "LightStrength": { 
+        "DeathLow": 2.0, 
+        "TooLow": 4.0, 
+        "Ideal": 7.75, 
+        "TooHigh": 9.0, 
+        "DeathHigh": 10.0 
+    },
+    "Photoperiod": { 
+        "DeathLow": 0.0, 
+        "TooLow": 4.0, 
+        "Ideal": 14.0, 
+        "TooHigh": 18.0, 
+        "DeathHigh": 24.0 
+    },
+    "Temperature": { 
+        "DeathLow": 28, 
+        "TooLow": 60, 
+        "Ideal": 75, 
+        "TooHigh": 80, 
+        "DeathHigh": 110 
+    },
+    "CareDescription": "Let dry partially between waterings; low humidity; light fertilizer",
+    "RelativeHumidity": { 
+        "DeathLow": 10, 
+        "TooLow": 25, 
+        "Ideal": 50, 
+        "TooHigh": 75, 
+        "DeathHigh": 90 
+    },
+    "Fertilizer": { 
+        "DeathLow": 10, 
+        "TooLow": 1.5, 
+        "Ideal": 3.5, 
+        "TooHigh": 6, 
+        "DeathHigh": 8 
+    }
+},
+"Thyme": {
+    "CommonName": "Thyme",
+    "ScientificName": "Thymus vulgaris",
+    "SoilDescription": "Well-draining, slightly alkaline soil",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+        },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    },
+    "OrganicContent": {
+        "DeathLow": 0.0,
+        "TooLow": 3.0,
+        "Ideal": 10.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 7.75,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 0.0,
+        "TooLow": 4.0,
+        "Ideal": 14.0,
+        "TooHigh": 18.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 28.0,
+        "TooLow": 60.0,
+        "Ideal": 75.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 100.0
+    },
+    "CareDescription": "Keep soil slightly moist; moderate humidity; fertilize monthly",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 25.0,
+        "Ideal": 50.0,
+        "TooHigh": 75.0,
+        "DeathHigh": 90.0
+    },
+    "Fertilizer": {
+        "DeathLow": 0.0,
+        "TooLow": 1.5,
+        "Ideal": 4.5,
+        "TooHigh": 6.0,
+        "DeathHigh": 8.0
+    }
+},
+"GoldenFalseAralia": {
+    "CommonName": "Golden False Aralia",
+    "ScientificName": "Plerandra elegantissima",
+    "SoilDescription": "Light, fast-draining potting mix with added perlite",
+    "pH": {
+        "DeathLow": 5.0,
+        "TooLow": 5.5,
+        "Ideal": 6.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 7.5
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "OrganicContent": {
+        "DeathLow": 5.0,
+        "TooLow": 10.0,
+        "Ideal": 15.0,
+        "TooHigh": 25.0,
+        "DeathHigh": 30.0
+    },
+    "LightStrength": {
+        "DeathLow": 3.0,
+        "TooLow": 5.0,
+        "Ideal": 7.0,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 4.0,
+        "TooLow": 8.0,
+        "Ideal": 12.0,
+        "TooHigh": 16.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 50.0,
+        "TooLow": 60.0,
+        "Ideal": 70.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 90.0
+    },
+    "CareDescription": "Maintain moderate humidity; water thoroughly but allow top to dry",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 30.0,
+        "Ideal": 50.0,
+        "TooHigh": 70.0,
+        "DeathHigh": 85.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 2.0,
+        "Ideal": 4.0,
+        "TooHigh": 6.0,
+        "DeathHigh": 8.0
+    }
+},
+"PileaMoneyPlantCarl": {
+    "CommonName": "Pilea Money Plant 'Carl'",
+    "ScientificName": "Pilea peperomioides",
+    "SoilDescription": "Light, well-draining soil with a mix of potting mix and perlite",
+    "pH": {
+        "DeathLow": 5.0,
+        "TooLow": 5.5,
+        "Ideal": 6.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 7.5
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 6.5,
+        "DeathHigh": 7.5
+    },
+    "OrganicContent": {
+        "DeathLow": 0.0,
+        "TooLow": 5.0,
+        "Ideal": 15.0,
+        "TooHigh": 25.0,
+        "DeathHigh": 30.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.5
+    },
+    "Photoperiod": {
+        "DeathLow": 0.0,
+        "TooLow": 8.0,
+        "Ideal": 14.0,
+        "TooHigh": 18.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 50.0,
+        "TooLow": 60.0,
+        "Ideal": 70.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 85.0
+    },
+    "CareDescription": "Water thoroughly when the soil dries; moderate humidity",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 30.0,
+        "Ideal": 50.0,
+        "TooHigh": 70.0,
+        "DeathHigh": 80.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 1.5,
+        "Ideal": 3.5,
+        "TooHigh": 5.5,
+        "DeathHigh": 7.5
+    }
+},
+"Peppermint": {
+    "CommonName": "Peppermint",
+    "ScientificName": "Mentha piperita",
+    "SoilDescription": "Moist, well-draining, slightly acidic soil with some organic matter",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.5,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "OrganicContent": {
+        "DeathLow": 10.0,
+        "TooLow": 15.0,
+        "Ideal": 20.0,
+        "TooHigh": 25.0,
+        "DeathHigh": 30.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.5
+    },
+    "Photoperiod": {
+        "DeathLow": 8.0,
+        "TooLow": 10.0,
+        "Ideal": 14.0,
+        "TooHigh": 16.0,
+        "DeathHigh": 18.0
+    },
+    "Temperature": {
+        "DeathLow": 50.0,
+        "TooLow": 60.0,
+        "Ideal": 70.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 85.0
+    },
+    "CareDescription": "Keep soil consistently moist; moderate to high humidity",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 40.0,
+        "Ideal": 60.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 90.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 2.0,
+        "Ideal": 4.0,
+        "TooHigh": 5.0,
+        "DeathHigh": 6.0
+    }
+},
+"Basil": {
+    "CommonName": "Basil",
+    "ScientificName": "Ocimum basilicum",
+    "SoilDescription": "Well-draining, fertile soil with organic matter",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 9.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "OrganicContent": {
+        "DeathLow": 10.0,
+        "TooLow": 15.0,
+        "Ideal": 20.0,
+        "TooHigh": 25.0,
+        "DeathHigh": 30.0
+    },
+    "LightStrength": {
+        "DeathLow": 3.0,
+        "TooLow": 5.0,
+        "Ideal": 7.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.5
+    },
+    "Photoperiod": {
+        "DeathLow": 8.0,
+        "TooLow": 10.0,
+        "Ideal": 12.0,
+        "TooHigh": 14.0,
+        "DeathHigh": 16.0
+    },
+    "Temperature": {
+        "DeathLow": 60.0,
+        "TooLow": 65.0,
+        "Ideal": 75.0,
+        "TooHigh": 85.0,
+        "DeathHigh": 90.0
+    },
+    "CareDescription": "Keep soil moist; moderate humidity; balanced fertilizer",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 30.0,
+        "Ideal": 60.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 90.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 2.0,
+        "Ideal": 4.0,
+        "TooHigh": 5.0,
+        "DeathHigh": 6.0
+    }
+},
+"ElephantJade": {
+    "CommonName": "Elephant Jade",
+    "ScientificName": "Portulacaria afra",
+    "SoilDescription": "Loose, well-draining soil with some organic content",
+    "pH": {
+        "DeathLow": 4.5,
+        "TooLow": 5.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 6.0,
+        "DeathHigh": 7.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 6.0,
+        "DeathHigh": 7.5
+    },
+    "OrganicContent": {
+        "DeathLow": 5.0,
+        "TooLow": 10.0,
+        "Ideal": 15.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 3.0,
+        "TooLow": 5.0,
+        "Ideal": 7.0,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 8.0,
+        "TooLow": 10.0,
+        "Ideal": 14.0,
+        "TooHigh": 16.0,
+        "DeathHigh": 18.0
+    },
+    "Temperature": {
+        "DeathLow": 55.0,
+        "TooLow": 60.0,
+        "Ideal": 70.0,
+        "TooHigh": 85.0,
+        "DeathHigh": 95.0
+    },
+    "CareDescription": "Allow soil to dry out between waterings; low humidity",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 20.0,
+        "Ideal": 40.0,
+        "TooHigh": 60.0,
+        "DeathHigh": 70.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 1.0,
+        "Ideal": 2.5,
+        "TooHigh": 3.5,
+        "DeathHigh": 5.0
+    }
+},
+"HotPepper": {
+    "CommonName": "Hot Pepper",
+    "ScientificName": "Capsicum annuum",
+    "SoilDescription": "Well-draining, loamy soil with organic matter",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 9.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "OrganicContent": {
+        "DeathLow": 5.0,
+        "TooLow": 10.0,
+        "Ideal": 20.0,
+        "TooHigh": 25.0,
+        "DeathHigh": 35.0
+    },
+    "LightStrength": {
+        "DeathLow": 4.0,
+        "TooLow": 5.0,
+        "Ideal": 7.5,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.5
+    },
+    "Photoperiod": {
+        "DeathLow": 10.0,
+        "TooLow": 12.0,
+        "Ideal": 14.0,
+        "TooHigh": 16.0,
+        "DeathHigh": 18.0
+    },
+    "Temperature": {
+        "DeathLow": 60.0,
+        "TooLow": 65.0,
+        "Ideal": 75.0,
+        "TooHigh": 85.0,
+        "DeathHigh": 90.0
+    },
+    "CareDescription": "Keep soil moist except top inch or two; moderate to dry humidity; balanced fertilizer every few weeks",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 30.0,
+        "Ideal": 50.0,
+        "TooHigh": 70.0,
+        "DeathHigh": 80.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 3.0,
+        "Ideal": 7.0,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    }
+},
+"CherryTomato": {
+    "CommonName": "Cherry Tomato",
+    "ScientificName": "Solanum lycopersicum",
+    "SoilDescription": "Rich, loose, well-draining soil with compost",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 9.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.5,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "OrganicContent": {
+        "DeathLow": 5.0,
+        "TooLow": 10.0,
+        "Ideal": 15.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 4.0,
+        "TooLow": 5.0,
+        "Ideal": 7.5,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.5
+    },
+    "Photoperiod": {
+        "DeathLow": 10.0,
+        "TooLow": 12.0,
+        "Ideal": 14.0,
+        "TooHigh": 16.0,
+        "DeathHigh": 18.0
+    },
+    "Temperature": {
+        "DeathLow": 60.0,
+        "TooLow": 65.0,
+        "Ideal": 75.0,
+        "TooHigh": 85.0,
+        "DeathHigh": 90.0
+    },
+    "CareDescription": "Keep soil moist except top inch or two; moderate to dry humidity; balanced fertilizer every few weeks",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 30.0,
+        "Ideal": 50.0,
+        "TooHigh": 70.0,
+        "DeathHigh": 80.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 3.0,
+        "Ideal": 7.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    }
+},
+"SuperhotPepper": {
+    "CommonName": "Superhot Pepper",
+    "ScientificName": "Capsicum chinense",
+    "SoilDescription": "Well-draining, loamy soil with organic matter",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 9.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.5,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "OrganicContent": {
+        "DeathLow": 5.0,
+        "TooLow": 10.0,
+        "Ideal": 15.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 4.0,
+        "TooLow": 5.0,
+        "Ideal": 7.5,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.5
+    },
+    "Photoperiod": {
+        "DeathLow": 10.0,
+        "TooLow": 12.0,
+        "Ideal": 14.0,
+        "TooHigh": 16.0,
+        "DeathHigh": 18.0
+    },
+    "Temperature": {
+        "DeathLow": 65.0,
+        "TooLow": 70.0,
+        "Ideal": 80.0,
+        "TooHigh": 85.0,
+        "DeathHigh": 90.0
+    },
+    "CareDescription": "Keep soil moist except top inch or two; moderate to wet humidity; balanced fertilizer every few weeks",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 30.0,
+        "Ideal": 60.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 90.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 3.0,
+        "Ideal": 5.5,
+        "TooHigh": 6.5,
+        "DeathHigh": 8.0
+    }
+},
+"HaworthiopsisKalameet": {
+    "CommonName": "Haworthiopsis Succulent 'Kalameet'",
+    "ScientificName": "Haworthiopsis spp.",
+    "SoilDescription": "Well-draining, sandy mix with moderate organic content; Ensure soil stays dry between waterings",
+    "pH": {
+        "DeathLow": 4.5,
+        "TooLow": 5.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.5
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    },
+    "OrganicContent": {
+        "DeathLow": 0.0,
+        "TooLow": 3.0,
+        "Ideal": 10.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 7.75,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 0.0,
+        "TooLow": 4.0,
+        "Ideal": 14.0,
+        "TooHigh": 18.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 28,
+        "TooLow": 60,
+        "Ideal": 72,
+        "TooHigh": 77,
+        "DeathHigh": 110
+    },
+    "CareDescription": "Allow soil to dry out completely before watering; moderate humidity; occasional light fertilization during active growing period",
+    "RelativeHumidity": {
+        "DeathLow": 10,
+        "TooLow": 25,
+        "Ideal": 50,
+        "TooHigh": 75,
+        "DeathHigh": 90
+    },
+    "Fertilizer": {
+        "DeathLow": 10,
+        "TooLow": 1.5,
+        "Ideal": 3.5,
+        "TooHigh": 6,
+        "DeathHigh": 8
+    }
+},
+"JadeGollumHobbit": {
+    "CommonName": "Jade 'Gollum/Hobbit'",
+    "ScientificName": "Crassula ovata",
+    "SoilDescription": "Well-draining, gritty mix for succulents; Allow soil to dry completely before watering",
+    "pH": {
+        "DeathLow": 4.5,
+        "TooLow": 5.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.5
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    },
+    "OrganicContent": {
+        "DeathLow": 0.0,
+        "TooLow": 3.0,
+        "Ideal": 10.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 7.75,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 0.0,
+        "TooLow": 4.0,
+        "Ideal": 14.0,
+        "TooHigh": 18.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 28,
+        "TooLow": 60,
+        "Ideal": 75,
+        "TooHigh": 80,
+        "DeathHigh": 110
+    },
+    "CareDescription": "Water thoroughly when the soil is dry; low humidity; light feeding with cactus fertilizer during growing season",
+    "RelativeHumidity": {
+        "DeathLow": 10,
+        "TooLow": 25,
+        "Ideal": 50,
+        "TooHigh": 75,
+        "DeathHigh": 90
+    },
+    "Fertilizer": {
+        "DeathLow": 10,
+        "TooLow": 1.5,
+        "Ideal": 3.5,
+        "TooHigh": 6,
+        "DeathHigh": 8
+    }
+},
+"KeyLime": {
+    "CommonName": "Key Lime",
+    "ScientificName": "Citrus aurantiifolia",
+    "SoilDescription": "Well-draining, slightly acidic, sandy loam",
+    "pH": {
+        "DeathLow": 4.5,
+        "TooLow": 5.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.5
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    },
+    "OrganicContent": {
+        "DeathLow": 0.0,
+        "TooLow": 3.0,
+        "Ideal": 10.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 7.75,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 0.0,
+        "TooLow": 4.0,
+        "Ideal": 14.0,
+        "TooHigh": 18.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 28,
+        "TooLow": 60,
+        "Ideal": 75,
+        "TooHigh": 85,
+        "DeathHigh": 100
+    },
+    "CareDescription": "Water regularly when topsoil is dry; moderate humidity; fertilize with balanced citrus fertilizer",
+    "RelativeHumidity": {
+        "DeathLow": 10,
+        "TooLow": 25,
+        "Ideal": 50,
+        "TooHigh": 75,
+        "DeathHigh": 90
+    },
+    "Fertilizer": {
+        "DeathLow": 10,
+        "TooLow": 1.5,
+        "Ideal": 4.5,
+        "TooHigh": 6,
+        "DeathHigh": 8
+    }
+},
+"Rosemary": {
+    "CommonName": "Rosemary",
+    "ScientificName": "Rosmarinus officinalis",
+    "SoilDescription": "Well-draining, sandy soil with slightly alkaline pH",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    },
+    "OrganicContent": {
+        "DeathLow": 0.0,
+        "TooLow": 3.0,
+        "Ideal": 10.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 7.75,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 0.0,
+        "TooLow": 4.0,
+        "Ideal": 14.0,
+        "TooHigh": 18.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 28,
+        "TooLow": 60,
+        "Ideal": 75,
+        "TooHigh": 80,
+        "DeathHigh": 100
+    },
+    "CareDescription": "Water when the topsoil is dry, allow the plant to dry between waterings; light pruning to promote healthy growth",
+    "RelativeHumidity": {
+        "DeathLow": 10,
+        "TooLow": 25,
+        "Ideal": 50,
+        "TooHigh": 75,
+        "DeathHigh": 90
+    },
+    "Fertilizer": {
+        "DeathLow": 10,
+        "TooLow": 1.5,
+        "Ideal": 3.5,
+        "TooHigh": 6,
+        "DeathHigh": 8
+    }
+}
+
+}
