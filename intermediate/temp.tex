@@ -1,0 +1,33 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{geometry}
+\usepackage{titlesec}
+
+\titleformat{\section}[block]{\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}[block]{\normalfont\Large}{\thesubsection}{2em}{} % Adds indentation
+\begin{document}
+
+\begin{center}
+    {\fontsize{36}{24}\selectfont \textbf{Aeonium Zwartkop}} \\
+    {\fontsize{18}{24}\selectfont \textit{Aeonium arboreum}} \\
+    \vspace{30pt}
+    {\fontsize{20}{24}\selectfont Care instructions}\\
+    \vspace{30pt} 
+    \includegraphics[width=1.0\textwidth]{images/AeoniumZwartkop.jpg}
+\end{center}
+
+\newgeometry{top=20mm, bottom=30mm, left=20mm, right=20mm}
+\newpage
+
+\section*{Info}
+This section is not yet implemented. It must be added to the .json, updated in structs.jl to match, and then added.
+
+\section*{Environmental Considerations}
+\subsection*{Soil}
+Light, fast-draining potting mix with added perlite
+\subsection*{Upkeep}
+Keep soil slightly moist; moderate humidity; fertilize monthly
+\newline \newline \newline
+\includegraphics[width=.9\textwidth]{intermediate/plots/AeoniumZwartkop.png}
+
+\end{document}
