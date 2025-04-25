@@ -1,0 +1,1124 @@
+
+{
+"AeoniumZwartkop": {
+    "CommonName":"Aeonium Zwartkop",
+    "ScientificName": "Aeonium arboreum",
+    "Info":"Aeonium 'Zwartkop', also known as Black Rose or Black Aeonium, is a striking succulent native to the Canary Islands. It is prized for its dramatic, dark burgundy to near-black rosettes that form on tall, bare stems. This cultivar thrives in Mediterranean climates and prefers full sun to develop its rich coloration, though it benefits from some afternoon shade in very hot regions. Aeonium 'Zwartkop' is winter-growing and may go semi-dormant during hot, dry summers, dropping some lower leaves. It prefers well-draining soil, moderate watering, and mild temperatures, avoiding frost. Its bold form makes it popular in xeriscaping and container arrangements.",
+    "SoilDescription": "Sandy, well-draining succulent mix; Keep cool and mildly wet to prevent dormancy",
+    "pH": {    
+        "DeathLow": 4.5, 
+        "TooLow": 5.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.5
+    },
+    "Retention": {    
+        "DeathLow": 2.0, 
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {    
+        "DeathLow": 2.0, 
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    },
+    "OrganicContent": {    
+        "DeathLow": 0.0, 
+        "TooLow": 3.0,
+        "Ideal": 10.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {    
+        "DeathLow": 2.0, 
+        "TooLow": 4.0,
+        "Ideal": 7.75,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {    
+        "DeathLow": 0.0,  
+        "TooLow": 4.0,  
+        "Ideal": 14.0,  
+        "TooHigh": 18.0,  
+        "DeathHigh": 24.0  
+    },
+    "Temperature": {    
+        "DeathLow": 28, 
+        "TooLow": 60,
+        "Ideal": 75,
+        "TooHigh": 80,
+        "DeathHigh": 110
+    },
+    "CareDescription": "Water when top half of soil is dry; low humidity; Occasional light feeding during growing season (~1/4 strength monthly)",
+    "RelativeHumidity": {    
+        "DeathLow": 10, 
+        "TooLow": 25,
+        "Ideal": 50,
+        "TooHigh": 75,
+        "DeathHigh": 90
+    },
+    "Fertilizer": {    
+        "DeathLow": 10, 
+        "TooLow": 1.5,
+        "Ideal": 3.5,
+        "TooHigh": 6,
+        "DeathHigh": 8
+    }
+},
+"AloeBlackGem": {
+    "CommonName": "Aloe 'Black Gem'",
+    "ScientificName": "Aloe X Haworthia",
+    "Info": "Aloe 'Black Gem' is a compact hybrid between Aloe and Haworthia, known for its glossy, deep green to dark purple leaves that form tight rosettes. It is native to southern Africa through its parentage and is favored for its small size and architectural form, making it ideal for indoor pots or small rock gardens. This succulent prefers bright, indirect light but can tolerate some direct sun, which intensifies its dark coloration. Aloe 'Black Gem' thrives in gritty, well-draining soil and should be watered only when dry. It is low-maintenance and appreciates warm conditions, avoiding frost and excessive humidity for optimal health.",
+    "SoilDescription": "Gritty, well-draining succulent mix",
+    "pH": { 
+        "DeathLow": 4.5, 
+        "TooLow": 5.0, 
+        "Ideal": 6.0, 
+        "TooHigh": 7.5, 
+        "DeathHigh": 8.5 
+    },
+    "Retention": { 
+        "DeathLow": 2.0, 
+        "TooLow": 3.0, 
+        "Ideal": 5.0, 
+        "TooHigh": 8.0, 
+        "DeathHigh": 10.0 
+    },
+    "Aeration": { 
+        "DeathLow": 2.0, 
+        "TooLow": 3.0, 
+        "Ideal": 6.0, 
+        "TooHigh": 8.0, 
+        "DeathHigh": 9.0 
+    },
+    "OrganicContent": { 
+        "DeathLow": 0.0, 
+        "TooLow": 3.0, 
+        "Ideal": 10.0, 
+        "TooHigh": 20.0, 
+        "DeathHigh": 25.0 
+    },
+    "LightStrength": { 
+        "DeathLow": 2.0, 
+        "TooLow": 4.0, 
+        "Ideal": 7.75, 
+        "TooHigh": 9.0, 
+        "DeathHigh": 10.0 
+    },
+    "Photoperiod": { 
+        "DeathLow": 0.0, 
+        "TooLow": 4.0, 
+        "Ideal": 14.0, 
+        "TooHigh": 18.0, 
+        "DeathHigh": 24.0 
+    },
+    "Temperature": { 
+        "DeathLow": 28, 
+        "TooLow": 60, 
+        "Ideal": 75, 
+        "TooHigh": 80, 
+        "DeathHigh": 110 
+    },
+    "CareDescription": "Water when dry; low humidity; cactus fertilizer occasionally",
+    "RelativeHumidity": { 
+        "DeathLow": 10, 
+        "TooLow": 25, 
+        "Ideal": 50, 
+        "TooHigh": 75, 
+        "DeathHigh": 90 
+    },
+    "Fertilizer": { 
+        "DeathLow": 10, 
+        "TooLow": 1.5, 
+        "Ideal": 3.5, 
+        "TooHigh": 6, 
+        "DeathHigh": 8 
+    }
+},
+"ZebraSucculent": {
+    "CommonName": "Zebra Succulent",
+    "ScientificName": "Haworthiopsis attenuata",
+    "Info": "Haworthiopsis attenuata, commonly known as the Zebra Plant or Zebra Haworthia, is a small, clumping succulent native to South Africa. It is easily recognized by its dark green leaves adorned with raised white tubercles arranged in horizontal bands, giving it a striking striped appearance. This plant grows slowly and prefers bright, indirect light, making it well-suited for indoor cultivation. It thrives in well-draining, sandy soil and should be allowed to dry between waterings. Unlike many succulents, it can tolerate lower light and cooler conditions, though it prefers warmth and low humidity. It’s a resilient, beginner-friendly plant that often produces offsets.",
+    "SoilDescription": "Well-draining, sandy soil; Keep cool and mildly wet to prevent dormancy",
+    "pH": { 
+        "DeathLow": 4.5, 
+        "TooLow": 5.0, 
+        "Ideal": 6.0, 
+        "TooHigh": 7.5, 
+        "DeathHigh": 8.5 
+    },
+    "Retention": { 
+        "DeathLow": 2.0, 
+        "TooLow": 3.0, 
+        "Ideal": 5.0, 
+        "TooHigh": 8.0, 
+        "DeathHigh": 10.0 
+    },
+    "Aeration": { 
+        "DeathLow": 2.0, 
+        "TooLow": 3.0, 
+        "Ideal": 6.0, 
+        "TooHigh": 8.0, 
+        "DeathHigh": 9.0 
+    },
+    "OrganicContent": { 
+        "DeathLow": 0.0, 
+        "TooLow": 3.0, 
+        "Ideal": 10.0, 
+        "TooHigh": 20.0, 
+        "DeathHigh": 25.0 
+    },
+    "LightStrength": { 
+        "DeathLow": 2.0, 
+        "TooLow": 4.0, 
+        "Ideal": 7.75, 
+        "TooHigh": 9.0, 
+        "DeathHigh": 10.0 
+    },
+    "Photoperiod": { 
+        "DeathLow": 0.0, 
+        "TooLow": 4.0, 
+        "Ideal": 14.0, 
+        "TooHigh": 18.0, 
+        "DeathHigh": 24.0 
+    },
+    "Temperature": { 
+        "DeathLow": 28, 
+        "TooLow": 60, 
+        "Ideal": 75, 
+        "TooHigh": 80, 
+        "DeathHigh": 110 
+    },
+    "CareDescription": "Let dry partially between waterings; low humidity; light fertilizer",
+    "RelativeHumidity": { 
+        "DeathLow": 10, 
+        "TooLow": 25, 
+        "Ideal": 50, 
+        "TooHigh": 75, 
+        "DeathHigh": 90 
+    },
+    "Fertilizer": { 
+        "DeathLow": 10, 
+        "TooLow": 1.5, 
+        "Ideal": 3.5, 
+        "TooHigh": 6, 
+        "DeathHigh": 8 
+    }
+},
+"Thyme": {
+    "CommonName": "Thyme",
+    "ScientificName": "Thymus vulgaris",
+    "Info": "Thyme (Thymus vulgaris) is a low-growing, woody perennial herb native to the Mediterranean region. It is well-known for its fragrant, small green leaves and its culinary use in a wide range of dishes. Thyme thrives in full sun and prefers slightly alkaline, well-draining soil. It is drought-tolerant and grows best when the soil is allowed to dry between waterings. This herb is compact and spreading, making it ideal for garden borders, rock gardens, or container planting. In addition to its culinary value, thyme attracts pollinators and has been used traditionally for its medicinal properties and aromatic qualities.",
+    "SoilDescription": "Well-draining, neutral soil",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+        },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    },
+    "OrganicContent": {
+        "DeathLow": 0.0,
+        "TooLow": 3.0,
+        "Ideal": 10.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 7.75,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 0.0,
+        "TooLow": 4.0,
+        "Ideal": 14.0,
+        "TooHigh": 18.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 28.0,
+        "TooLow": 60.0,
+        "Ideal": 75.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 100.0
+    },
+    "CareDescription": "Keep soil slightly moist; moderate humidity; fertilize monthly",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 25.0,
+        "Ideal": 50.0,
+        "TooHigh": 75.0,
+        "DeathHigh": 90.0
+    },
+    "Fertilizer": {
+        "DeathLow": 0.0,
+        "TooLow": 1.5,
+        "Ideal": 4.5,
+        "TooHigh": 6.0,
+        "DeathHigh": 8.0
+    }
+},
+"GoldenFalseAralia": {
+    "CommonName": "Golden False Aralia",
+    "ScientificName": "Plerandra elegantissima",
+    "Info": "Golden False Aralia (Plerandra elegantissima, formerly Schefflera elegantissima) is an ornamental shrub native to New Caledonia, prized for its striking, finely serrated foliage that emerges coppery-bronze and matures to deep green. In ideal conditions, it can grow tall and narrow, making it a popular choice for indoor décor and tropical-themed gardens. Golden False Aralia prefers bright, indirect light and consistently warm temperatures, thriving best in well-draining, slightly acidic to neutral soil with moderate humidity. It dislikes cold drafts and overly wet roots. Growth is slow to moderate, and pruning or repotting can encourage a fuller, bushier appearance.",
+    "SoilDescription": "Light, fast-draining potting mix with added perlite",
+    "pH": {
+        "DeathLow": 5.0,
+        "TooLow": 5.5,
+        "Ideal": 6.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 7.5
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "OrganicContent": {
+        "DeathLow": 5.0,
+        "TooLow": 10.0,
+        "Ideal": 15.0,
+        "TooHigh": 25.0,
+        "DeathHigh": 30.0
+    },
+    "LightStrength": {
+        "DeathLow": 3.0,
+        "TooLow": 5.0,
+        "Ideal": 7.0,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 4.0,
+        "TooLow": 8.0,
+        "Ideal": 12.0,
+        "TooHigh": 16.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 50.0,
+        "TooLow": 60.0,
+        "Ideal": 70.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 90.0
+    },
+    "CareDescription": "Maintain moderate humidity; water thoroughly but allow top to dry",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 30.0,
+        "Ideal": 50.0,
+        "TooHigh": 70.0,
+        "DeathHigh": 85.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 2.0,
+        "Ideal": 4.0,
+        "TooHigh": 6.0,
+        "DeathHigh": 8.0
+    }
+},
+"PileaMoneyPlantCarl": {
+    "CommonName": "Pilea Money Plant 'Carl'",
+    "ScientificName": "Pilea peperomioides",
+    "Info": "Pilea Money Plant (Pilea peperomioides) is a charming, low-maintenance houseplant native to the Yunnan Province of southern China. It's best known for its round, coin-shaped leaves that grow on long, slender petioles—hence the nickname 'Chinese Money Plant.' It prefers bright, indirect light and thrives in well-draining, peat-based soil. Pilea enjoys moderate humidity and slightly dry intervals between waterings. With proper care, it regularly produces pups (offsets) around its base, making it easy to propagate and share.",
+    "SoilDescription": "Light, well-draining soil with a mix of potting mix and perlite",
+    "pH": {
+        "DeathLow": 5.0,
+        "TooLow": 5.5,
+        "Ideal": 6.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 7.5
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 6.5,
+        "DeathHigh": 7.5
+    },
+    "OrganicContent": {
+        "DeathLow": 0.0,
+        "TooLow": 5.0,
+        "Ideal": 15.0,
+        "TooHigh": 25.0,
+        "DeathHigh": 30.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.5
+    },
+    "Photoperiod": {
+        "DeathLow": 0.0,
+        "TooLow": 8.0,
+        "Ideal": 14.0,
+        "TooHigh": 18.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 50.0,
+        "TooLow": 60.0,
+        "Ideal": 70.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 85.0
+    },
+    "CareDescription": "Water thoroughly when the soil dries; moderate humidity",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 30.0,
+        "Ideal": 50.0,
+        "TooHigh": 70.0,
+        "DeathHigh": 80.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 1.5,
+        "Ideal": 3.5,
+        "TooHigh": 5.5,
+        "DeathHigh": 7.5
+    }
+},
+"Peppermint": {
+    "CommonName": "Peppermint",
+    "ScientificName": "Mentha x piperita",
+    "Info": "Peppermint (Mentha × piperita) is a fast-growing, aromatic herb that’s a natural hybrid of watermint and spearmint. Native to Europe and the Middle East, it thrives in temperate climates and is now cultivated globally. Peppermint spreads vigorously through underground rhizomes and is best grown in containers to control its growth. It prefers moist, rich, well-draining soil with a neutral to slightly acidic pH and grows best in full sun to partial shade. The plant is prized for its menthol-rich leaves, used in teas, culinary dishes, and natural remedies. Regular trimming encourages bushier growth and helps maintain its compact form.",
+    "SoilDescription": "Moist, well-draining, slightly acidic soil with some organic matter",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.5,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "OrganicContent": {
+        "DeathLow": 10.0,
+        "TooLow": 15.0,
+        "Ideal": 20.0,
+        "TooHigh": 25.0,
+        "DeathHigh": 30.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.5
+    },
+    "Photoperiod": {
+        "DeathLow": 8.0,
+        "TooLow": 10.0,
+        "Ideal": 14.0,
+        "TooHigh": 16.0,
+        "DeathHigh": 18.0
+    },
+    "Temperature": {
+        "DeathLow": 50.0,
+        "TooLow": 60.0,
+        "Ideal": 70.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 85.0
+    },
+    "CareDescription": "Keep soil consistently moist; moderate to high humidity",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 40.0,
+        "Ideal": 60.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 90.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 2.0,
+        "Ideal": 4.0,
+        "TooHigh": 5.0,
+        "DeathHigh": 6.0
+    }
+},
+"Basil": {
+    "CommonName": "Basil",
+    "ScientificName": "Ocimum basilicum",
+    "Info": "Basil (Ocimum basilicum) is a tender annual herb native to tropical regions of Central Africa and Southeast Asia, widely cultivated for its aromatic leaves. A staple in many global cuisines—especially Italian and Southeast Asian—basil thrives in warm, sunny environments with rich, well-draining soil and consistent moisture. It prefers a slightly acidic to neutral pH and benefits from regular pinching to promote bushy growth and prevent flowering, which can reduce leaf flavor. Basil is highly sensitive to cold and should be planted after the last frost. Its fragrant leaves are best harvested fresh and used immediately for peak flavor and aroma.",
+    "SoilDescription": "Well-draining, fertile soil with organic matter",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 9.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "OrganicContent": {
+        "DeathLow": 10.0,
+        "TooLow": 15.0,
+        "Ideal": 20.0,
+        "TooHigh": 25.0,
+        "DeathHigh": 30.0
+    },
+    "LightStrength": {
+        "DeathLow": 3.0,
+        "TooLow": 5.0,
+        "Ideal": 7.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.5
+    },
+    "Photoperiod": {
+        "DeathLow": 8.0,
+        "TooLow": 10.0,
+        "Ideal": 12.0,
+        "TooHigh": 14.0,
+        "DeathHigh": 16.0
+    },
+    "Temperature": {
+        "DeathLow": 60.0,
+        "TooLow": 65.0,
+        "Ideal": 75.0,
+        "TooHigh": 85.0,
+        "DeathHigh": 90.0
+    },
+    "CareDescription": "Keep soil moist; moderate humidity; balanced fertilizer",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 30.0,
+        "Ideal": 60.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 90.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 2.0,
+        "Ideal": 4.0,
+        "TooHigh": 5.0,
+        "DeathHigh": 6.0
+    }
+},
+"ElephantJade": {
+    "CommonName": "Elephant Jade",
+    "ScientificName": "Portulacaria afra",
+    "Info": "Elephant Jade (Portulacaria afra), also known as dwarf jade or elephant bush, is a succulent shrub native to South Africa. It thrives in arid, rocky environments and is a favorite in bonsai and drought-tolerant gardens. Unlike true jade (Crassula ovata), elephant jade has smaller, more closely spaced leaves on reddish stems, and can grow into large, woody bushes in the wild. It prefers full sun to partial shade, gritty, well-draining soil, and minimal watering—allowing the soil to dry completely between waterings. Elephant jade is highly tolerant of heat and light but sensitive to frost, and it can root readily from stem cuttings.",
+    "SoilDescription": "Loose, well-draining soil with some OrganicContent",
+    "pH": {
+        "DeathLow": 4.5,
+        "TooLow": 5.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 6.0,
+        "DeathHigh": 7.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 6.0,
+        "DeathHigh": 7.5
+    },
+    "OrganicContent": {
+        "DeathLow": 5.0,
+        "TooLow": 10.0,
+        "Ideal": 15.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 3.0,
+        "TooLow": 5.0,
+        "Ideal": 7.0,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 8.0,
+        "TooLow": 10.0,
+        "Ideal": 14.0,
+        "TooHigh": 16.0,
+        "DeathHigh": 18.0
+    },
+    "Temperature": {
+        "DeathLow": 55.0,
+        "TooLow": 60.0,
+        "Ideal": 70.0,
+        "TooHigh": 85.0,
+        "DeathHigh": 95.0
+    },
+    "CareDescription": "Allow soil to dry out between waterings; low humidity",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 20.0,
+        "Ideal": 40.0,
+        "TooHigh": 60.0,
+        "DeathHigh": 70.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 1.0,
+        "Ideal": 2.5,
+        "TooHigh": 3.5,
+        "DeathHigh": 5.0
+    }
+},
+"HotPepper": {
+    "CommonName": "Hot Pepper",
+    "ScientificName": "Capsicum annuum",
+    "Info": "Capsicum annuum, a species encompassing a wide range of peppers—including bell peppers, jalapeños, and cayennes—is native to Central and South America and has been cultivated for thousands of years. It grows as a bushy annual or perennial (in frost-free climates) and thrives in warm, sunny conditions with well-draining, fertile soil. Capsicum annuum plants prefer slightly acidic to neutral pH and consistent moisture without waterlogging. They need plenty of light (6–8+ hours/day) and benefit from regular feeding during fruiting. While generally heat-loving, they can be sensitive to cold, and varieties range widely in fruit shape, color, and spiciness due to extensive domestication.",
+    "SoilDescription": "Well-draining, loamy soil with organic matter",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 9.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "OrganicContent": {
+        "DeathLow": 5.0,
+        "TooLow": 10.0,
+        "Ideal": 20.0,
+        "TooHigh": 25.0,
+        "DeathHigh": 35.0
+    },
+    "LightStrength": {
+        "DeathLow": 4.0,
+        "TooLow": 5.0,
+        "Ideal": 7.5,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.5
+    },
+    "Photoperiod": {
+        "DeathLow": 10.0,
+        "TooLow": 12.0,
+        "Ideal": 14.0,
+        "TooHigh": 16.0,
+        "DeathHigh": 18.0
+    },
+    "Temperature": {
+        "DeathLow": 60.0,
+        "TooLow": 65.0,
+        "Ideal": 75.0,
+        "TooHigh": 85.0,
+        "DeathHigh": 90.0
+    },
+    "CareDescription": "Keep soil moist except top inch or two; moderate to dry humidity; balanced fertilizer every few weeks",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 30.0,
+        "Ideal": 50.0,
+        "TooHigh": 70.0,
+        "DeathHigh": 80.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 3.0,
+        "Ideal": 7.0,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    }
+},
+"CherryTomato": {
+    "CommonName": "Cherry Tomato",
+    "ScientificName": "Solanum lycopersicum",
+    "Info": "Tomato (Solanum lycopersicum) is native to western South America, particularly the Andean region, and is one of the most widely cultivated fruit-bearing plants globally. It thrives in warm climates with full sun, typically requiring 6–8 hours of direct sunlight per day. Tomatoes prefer slightly acidic to neutral soil (pH 5.5–7.0) that is well-draining and rich in organic matter. They grow best in temperatures ranging from 65°F to 85°F (18°C to 29°C) and require consistent watering, especially during fruit development. Tomatoes benefit from regular fertilization, particularly with balanced nutrients. They are sensitive to frost and often require support, such as staking or caging, to prevent sprawling.",
+    "SoilDescription": "Rich, loose, well-draining soil with compost",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 9.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.5,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "OrganicContent": {
+        "DeathLow": 5.0,
+        "TooLow": 10.0,
+        "Ideal": 15.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 4.0,
+        "TooLow": 5.0,
+        "Ideal": 7.5,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.5
+    },
+    "Photoperiod": {
+        "DeathLow": 10.0,
+        "TooLow": 12.0,
+        "Ideal": 14.0,
+        "TooHigh": 16.0,
+        "DeathHigh": 18.0
+    },
+    "Temperature": {
+        "DeathLow": 60.0,
+        "TooLow": 65.0,
+        "Ideal": 75.0,
+        "TooHigh": 85.0,
+        "DeathHigh": 90.0
+    },
+    "CareDescription": "Keep soil moist except top inch or two; moderate to dry humidity; balanced fertilizer every few weeks",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 30.0,
+        "Ideal": 50.0,
+        "TooHigh": 70.0,
+        "DeathHigh": 80.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 3.0,
+        "Ideal": 7.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    }
+},
+"SuperhotPepper": {
+    "CommonName": "Superhot Pepper",
+    "ScientificName": "Capsicum chinense",
+    "Info": "Capsicum chinense is a species of pepper plant native to the Caribbean, Central America, and northern South America. It is best known for producing some of the world's hottest chili peppers, including the infamous Habanero and Carolina Reaper. This species thrives in warm, tropical to subtropical climates, with optimal temperatures ranging from 70°F to 90°F (21°C to 32°C). Capsicum chinense prefers slightly acidic soil (pH 5.5–6.5) that is well-draining, rich in organic matter, and kept consistently moist, though not soggy. The plant requires full sun, with at least 6 hours of direct light per day, and benefits from regular feeding, particularly during the flowering and fruiting stages. They are sensitive to cold and frost, and in cooler climates, may need to be grown in containers for indoor cultivation.",
+    "SoilDescription": "Well-draining, loamy soil with organic matter",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.0,
+        "DeathHigh": 9.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.5,
+        "TooHigh": 7.0,
+        "DeathHigh": 8.0
+    },
+    "OrganicContent": {
+        "DeathLow": 5.0,
+        "TooLow": 10.0,
+        "Ideal": 15.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 4.0,
+        "TooLow": 5.0,
+        "Ideal": 7.5,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.5
+    },
+    "Photoperiod": {
+        "DeathLow": 10.0,
+        "TooLow": 12.0,
+        "Ideal": 14.0,
+        "TooHigh": 16.0,
+        "DeathHigh": 18.0
+    },
+    "Temperature": {
+        "DeathLow": 65.0,
+        "TooLow": 70.0,
+        "Ideal": 80.0,
+        "TooHigh": 85.0,
+        "DeathHigh": 90.0
+    },
+    "CareDescription": "Keep soil moist except top inch or two; moderate to wet humidity; balanced fertilizer every few weeks",
+    "RelativeHumidity": {
+        "DeathLow": 10.0,
+        "TooLow": 30.0,
+        "Ideal": 60.0,
+        "TooHigh": 80.0,
+        "DeathHigh": 90.0
+    },
+    "Fertilizer": {
+        "DeathLow": 10.0,
+        "TooLow": 3.0,
+        "Ideal": 5.5,
+        "TooHigh": 6.5,
+        "DeathHigh": 8.0
+    }
+},
+"HaworthiopsisKalameet": {
+    "CommonName": "Haworthiopsis 'Kalameet'",
+    "ScientificName": "Haworthiopsis nigra (unnamed cultivar)",
+    "Info": "Haworthiopsis nigra, also known as the Zebra Cactus, is a small, attractive succulent native to southern Africa. This plant is known for its striking dark green to blackish foliage, adorned with white horizontal stripes, resembling the pattern of a zebra. It grows slowly and typically reaches a height of around 4–6 inches (10–15 cm). Haworthiopsis nigra thrives in well-draining, gritty soil with a slightly acidic to neutral pH (5.5–7.0) and prefers temperatures between 60°F and 80°F (15°C to 27°C). It requires bright, indirect sunlight but can tolerate some direct sun. Watering should be infrequent, and it is best to avoid high humidity. This species is well-suited to low-maintenance indoor environments, as it is drought-tolerant and relatively pest-resistant.",
+    "SoilDescription": "Well-draining, sandy mix with moderate OrganicContent; Ensure soil stays dry between waterings",
+    "pH": {
+        "DeathLow": 4.5,
+        "TooLow": 5.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.5
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    },
+    "OrganicContent": {
+        "DeathLow": 0.0,
+        "TooLow": 3.0,
+        "Ideal": 10.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 7.75,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 0.0,
+        "TooLow": 4.0,
+        "Ideal": 14.0,
+        "TooHigh": 18.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 28,
+        "TooLow": 60,
+        "Ideal": 72,
+        "TooHigh": 77,
+        "DeathHigh": 110
+    },
+    "CareDescription": "Allow soil to dry out completely before watering; moderate humidity; occasional light fertilization during active growing period",
+    "RelativeHumidity": {
+        "DeathLow": 10,
+        "TooLow": 25,
+        "Ideal": 50,
+        "TooHigh": 75,
+        "DeathHigh": 90
+    },
+    "Fertilizer": {
+        "DeathLow": 10,
+        "TooLow": 1.5,
+        "Ideal": 3.5,
+        "TooHigh": 6,
+        "DeathHigh": 8
+    }
+},
+"JadeGollumHobbit": {
+    "CommonName": "Jade 'Gollum/Hobbit'",
+    "ScientificName": "Crassula ovata",
+    "Info": "Jade 'Gollum/Hobbit', also known as Crassula ovata cultivar, is a unique and striking succulent native to South Africa. It is characterized by its tubular, elongated leaves that resemble the fingers of the mythical Gollum or Hobbit. This plant grows as a small shrub, typically reaching 12–18 inches (30–45 cm) in height. Like other jade plants, it prefers a well-draining, gritty mix with a slightly acidic to neutral pH (6.0–7.0). Jade 'Gollum/Hobbit' thrives in bright, indirect sunlight and can tolerate some direct sun, but care should be taken not to overexpose it. It enjoys temperatures between 65°F and 85°F (18°C–29°C) and can withstand dry conditions, requiring infrequent watering when the soil is dry to the touch. This hardy succulent is also tolerant of a wide range of humidity levels and can survive with low humidity. As with other jade varieties, it's best to avoid overwatering, as this can lead to root rot.",
+    "SoilDescription": "Well-draining, gritty mix for succulents; Allow soil to dry completely before watering",
+    "pH": {
+        "DeathLow": 4.5,
+        "TooLow": 5.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.5
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    },
+    "OrganicContent": {
+        "DeathLow": 0.0,
+        "TooLow": 3.0,
+        "Ideal": 10.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 7.75,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 0.0,
+        "TooLow": 4.0,
+        "Ideal": 14.0,
+        "TooHigh": 18.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 28,
+        "TooLow": 60,
+        "Ideal": 75,
+        "TooHigh": 80,
+        "DeathHigh": 110
+    },
+    "CareDescription": "Water thoroughly when the soil is dry; low humidity; light feeding with cactus fertilizer during growing season",
+    "RelativeHumidity": {
+        "DeathLow": 10,
+        "TooLow": 25,
+        "Ideal": 50,
+        "TooHigh": 75,
+        "DeathHigh": 90
+    },
+    "Fertilizer": {
+        "DeathLow": 10,
+        "TooLow": 1.5,
+        "Ideal": 3.5,
+        "TooHigh": 6,
+        "DeathHigh": 8
+    }
+},
+"KeyLime": {
+    "CommonName": "Key Lime",
+    "ScientificName": "Citrus aurantiifolia",
+    "Info": "Key Lime (Citrus aurantiifolia) is a small, tropical citrus tree native to Southeast Asia and widely grown for its aromatic, tart fruits. It typically grows to 3–6 feet (1–2 meters) tall and is known for its glossy, dark green leaves and white flowers that bloom in clusters. Key lime trees thrive in warm climates and prefer well-draining, slightly acidic soil with a pH between 5.5 and 6.5. These trees require full sunlight for at least 8 hours a day to produce the best fruit. Ideal temperatures range from 65°F to 85°F (18°C–29°C), and they are sensitive to cold. Key lime trees require regular watering, with the soil kept moderately moist, but they do not tolerate overwatering. Moderate humidity levels and a balanced, citrus-specific fertilizer encourage optimal growth. While they can be grown in pots, they benefit from ample space to spread their roots. Key lime trees typically produce fruit that is green when immature, turning yellow-green as they ripen.",
+    "SoilDescription": "Well-draining, slightly acidic, sandy loam",
+    "pH": {
+        "DeathLow": 4.5,
+        "TooLow": 5.0,
+        "Ideal": 6.0,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.5
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    },
+    "OrganicContent": {
+        "DeathLow": 0.0,
+        "TooLow": 3.0,
+        "Ideal": 10.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 7.75,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 0.0,
+        "TooLow": 4.0,
+        "Ideal": 14.0,
+        "TooHigh": 18.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 28,
+        "TooLow": 60,
+        "Ideal": 75,
+        "TooHigh": 85,
+        "DeathHigh": 100
+    },
+    "CareDescription": "Water regularly when topsoil is dry; moderate humidity; fertilize with balanced citrus fertilizer",
+    "RelativeHumidity": {
+        "DeathLow": 10,
+        "TooLow": 25,
+        "Ideal": 50,
+        "TooHigh": 75,
+        "DeathHigh": 90
+    },
+    "Fertilizer": {
+        "DeathLow": 10,
+        "TooLow": 1.5,
+        "Ideal": 4.5,
+        "TooHigh": 6,
+        "DeathHigh": 8
+    }
+},
+"Rosemary": {
+    "CommonName": "Rosemary",
+    "ScientificName": "Rosmarinus officinalis",
+    "Info": "Rosemary (Rosmarinus officinalis) is a hardy, evergreen herb native to the Mediterranean region, valued for its aromatic leaves and versatile culinary uses. Rosemary can grow as a bushy shrub or smaller plant, reaching heights of 3–6 feet (1–2 meters). It thrives in well-draining, slightly acidic to neutral soil with a pH between 6.0 and 7.0, and prefers full sunlight for at least 6–8 hours per day. Rosemary grows best in moderate temperatures, ideally between 60°F to 75°F (15°C–24°C), and it is drought-tolerant once established. It is relatively low-maintenance, requiring infrequent watering, allowing the top 1–2 inches of soil to dry out between waterings. It prefers low humidity and benefits from occasional light fertilization. This herb is also resistant to pests and can be used in culinary dishes, as well as in aromatherapy or for ornamental purposes. Rosemary's fragrant, needle-like leaves have a strong, pine-like aroma and can be harvested year-round.",
+    "SoilDescription": "Well-draining, sandy soil with neutral pH",
+    "pH": {
+        "DeathLow": 5.5,
+        "TooLow": 6.0,
+        "Ideal": 6.5,
+        "TooHigh": 7.5,
+        "DeathHigh": 8.0
+    },
+    "Retention": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 5.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 10.0
+    },
+    "Aeration": {
+        "DeathLow": 2.0,
+        "TooLow": 3.0,
+        "Ideal": 6.0,
+        "TooHigh": 8.0,
+        "DeathHigh": 9.0
+    },
+    "OrganicContent": {
+        "DeathLow": 0.0,
+        "TooLow": 3.0,
+        "Ideal": 10.0,
+        "TooHigh": 20.0,
+        "DeathHigh": 25.0
+    },
+    "LightStrength": {
+        "DeathLow": 2.0,
+        "TooLow": 4.0,
+        "Ideal": 7.75,
+        "TooHigh": 9.0,
+        "DeathHigh": 10.0
+    },
+    "Photoperiod": {
+        "DeathLow": 0.0,
+        "TooLow": 4.0,
+        "Ideal": 14.0,
+        "TooHigh": 18.0,
+        "DeathHigh": 24.0
+    },
+    "Temperature": {
+        "DeathLow": 28,
+        "TooLow": 60,
+        "Ideal": 75,
+        "TooHigh": 80,
+        "DeathHigh": 100
+    },
+    "CareDescription": "Water when the topsoil is dry, allow the plant to dry between waterings; light pruning to promote healthy growth",
+    "RelativeHumidity": {
+        "DeathLow": 10,
+        "TooLow": 25,
+        "Ideal": 50,
+        "TooHigh": 75,
+        "DeathHigh": 90
+    },
+    "Fertilizer": {
+        "DeathLow": 10,
+        "TooLow": 1.5,
+        "Ideal": 3.5,
+        "TooHigh": 6,
+        "DeathHigh": 8
+    }
+}
+
+}

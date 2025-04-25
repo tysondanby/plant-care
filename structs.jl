@@ -77,6 +77,7 @@ end
 mutable struct PlantData
     CommonName::String
     ScientificName::String
+    Info::String
     SoilDescription::String
     pH::pHRange
     Retention::RetentionRange
@@ -107,7 +108,7 @@ function load_plant_data(filename::String)
         humidity = HumidityRange(value["RelativeHumidity"]["DeathLow"], value["RelativeHumidity"]["TooLow"], value["RelativeHumidity"]["Ideal"], value["RelativeHumidity"]["TooHigh"], value["RelativeHumidity"]["DeathHigh"])
         fertilizer = FertilizerRange(value["Fertilizer"]["DeathLow"], value["Fertilizer"]["TooLow"], value["Fertilizer"]["Ideal"], value["Fertilizer"]["TooHigh"], value["Fertilizer"]["DeathHigh"])
         
-        plant_data[key] = PlantData(value["CommonName"], value["ScientificName"], value["SoilDescription"], pH, retention, aeration, organic_content, light_strength, photoperiod, temperature, value["CareDescription"], humidity, fertilizer)
+        plant_data[key] = PlantData(value["CommonName"], value["ScientificName"], value["Info"], value["SoilDescription"], pH, retention, aeration, organic_content, light_strength, photoperiod, temperature, value["CareDescription"], humidity, fertilizer)
     end
     
     return plant_data
